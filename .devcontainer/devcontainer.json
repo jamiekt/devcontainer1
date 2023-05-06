@@ -3,11 +3,6 @@
   "build": {
     "dockerfile": "./Dockerfile"
   },
-  "containerEnv": {
-    "VAULT_ADDR": "https://vault.secrets.hellofresh.io/",
-    "AWS_DEFAULT_PROFILE": "${localEnv:AWS_DEFAULT_PROFILE:BIDeveloper}",
-    "TF_STATE_BUCKET": "hf-terraform-live"
-  },
   "features": {
     "ghcr.io/devcontainers/features/github-cli:1": {},
     "ghcr.io/mikaello/devcontainer-features/modern-shell-utils:1": {},
