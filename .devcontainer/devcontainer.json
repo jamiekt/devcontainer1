@@ -23,7 +23,9 @@
 		"eamodio.gitlens",
 		"ms-azuretools.vscode-docker",
 		"github.vscode-github-actions",
-		"johnpapa.vscode-peacock"
+		"johnpapa.vscode-peacock",
+		"timonwong.shellcheck",
+		"robertz.code-snapshot"
 	],
       "settings": {
         "editor.tabSize": 4,
