@@ -24,11 +24,12 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "mhutchie.git-graph",
-        "eamodio.gitlens",
-        "ms-azuretools.vscode-docker",
-        "github.vscode-github-actions"
-      ],
+		"mhutchie.git-graph",
+		"eamodio.gitlens",
+		"ms-azuretools.vscode-docker",
+		"github.vscode-github-actions",
+		"johnpapa.vscode-peacock"
+	],
       "settings": {
         "editor.tabSize": 4,
         "terminal.integrated.defaultProfile.linux": "zsh",
