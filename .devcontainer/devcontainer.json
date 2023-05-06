@@ -1,5 +1,5 @@
 {
-  "name": "snowflake-automation",
+  "name": "devcontainer1",
   "build": {
     "dockerfile": "./Dockerfile"
   },
